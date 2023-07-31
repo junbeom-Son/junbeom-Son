@@ -1,4 +1,6 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=junbeom%20Son&fontSize=90)
+
 더 나은 개발자가 되고 싶은 손준범입니다.
 <hr>
 
