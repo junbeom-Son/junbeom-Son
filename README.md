@@ -1,4 +1,7 @@
 ### Hi there 👋
+더 나은 개발자가 되고 싶은 손준범입니다.
+## Langauges
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 <!--
 **junbeom-Son/junbeom-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
