@@ -1,6 +1,6 @@
 ### Hi there 👋
 더 나은 개발자가 되고 싶은 손준범입니다.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswnsqja)](https://solved.ac/thswnsqja/)
+<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswnsqja)](https://solved.ac/thswnsqja/)
 ## Langauges
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FFFF33"/> <img alt="C++" src ="https://img.shields.io/badge/C++-8A2BE2.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFFF33"/>
 ## Frameworks
