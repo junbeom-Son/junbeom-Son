@@ -1,5 +1,6 @@
 ### Hi there 👋
 더 나은 개발자가 되고 싶은 손준범입니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswnsqja)](https://solved.ac/thswnsqja/)
 ## Langauges
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FFFF33"/> <img alt="C++" src ="https://img.shields.io/badge/C++-8A2BE2.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=javascript&logoColor=FFFF33"/>
 ## Frameworks
@@ -8,7 +9,6 @@
 <img alt="MySql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="oracle" src ="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 ## Tools
 <img alt="IntelliJ" src ="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> <img alt="eclipse" src ="https://img.shields.io/badge/Eclipse-525C86.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/> <img alt="VSCode" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswnsqja)](https://solved.ac/thswnsqja/)
 <img alt="" src =""/>
 <!--
 **junbeom-Son/junbeom-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
