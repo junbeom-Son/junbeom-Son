@@ -8,6 +8,7 @@
 <img alt="MySql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="oracle" src ="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 ## Tools
 <img alt="IntelliJ" src ="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> <img alt="eclipse" src ="https://img.shields.io/badge/Eclipse-525C86.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/> <img alt="VSCode" src ="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswnsqja)](https://solved.ac/thswnsqja/)
 <img alt="" src =""/>
 <!--
 **junbeom-Son/junbeom-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
